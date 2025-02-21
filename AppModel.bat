@@ -1,0 +1,1 @@
+streamlit run AppModel.py --server.port 80
