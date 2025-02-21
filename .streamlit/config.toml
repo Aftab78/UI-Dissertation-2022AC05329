@@ -1,0 +1,12 @@
+[ui]
+hideTopBar = true
+
+[server]
+runOnSave = true
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[global]
+developmentMode = false
