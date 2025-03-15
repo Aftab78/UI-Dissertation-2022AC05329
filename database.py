@@ -8,7 +8,7 @@ from datetime import datetime
 import pyodbc
 def get_connection_string():
     # Define database connection parameters
-    server = '4.240.93.106'  # e.g., 'localhost' or 'server\instance'
+    server = '4.X.X.X'  # e.g., 'localhost' or 'server\instance'
     database = 'FORECAST_DEV'
     username = 'wilp'
     password = 'wilp'
